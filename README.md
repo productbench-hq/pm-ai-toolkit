@@ -8,19 +8,13 @@ Works on its own, or together with the [Productbench AIOS template](https://gith
 
 | | What | Where |
 |---|---|---|
-| 1 | **Our skills.** Built and tested by Zihan and Tamer | [`skills/`](skills) |
+| 1 | **Our skills.** Built and tested by Zihan and Tamer | Coming soon |
 | 2 | **Commands worth knowing.** The Claude Code commands we use every day, plus our rules of thumb | [`commands.md`](commands.md) |
 | 3 | **Skills others built.** Our pick of skill collections worth installing | [`curated.md`](curated.md) |
 
 ## Our skills
 
-| Skill | What it does | Use it when |
-|---|---|---|
-| [`syncing-specs`](skills/syncing-specs/SKILL.md) | Reads new Slack messages, sorts each into decision, requirement, open question or noise, edits the right PRD section, shows the diff and logs the source | Decisions keep happening in Slack and your spec is going stale |
-
-More coming.
-
-**Install a skill:** copy its folder into `.claude/skills/` in your project (or `~/.claude/skills/` to use it everywhere). Then run it with `/<skill-name>`.
+Coming soon. Skills we built and tested on our own work.
 
 ## License
 

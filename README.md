@@ -8,13 +8,19 @@ Works on its own, or together with the [Productbench AIOS template](https://gith
 
 | | What | Where |
 |---|---|---|
-| 1 | **Our skills.** Built and tested by Zihan and Tamer | Coming soon |
+| 1 | **Our skills.** Built and tested by Zihan and Tamer | [`skills/`](skills) |
 | 2 | **Commands worth knowing.** The Claude Code commands we use every day, plus our rules of thumb | [`commands.md`](commands.md) |
 | 3 | **Skills others built.** Our pick of skill collections worth installing | [`curated.md`](curated.md) |
 
 ## Our skills
 
-Coming soon. Skills we built and tested on our own work.
+| Skill | What it does | Use it when |
+|---|---|---|
+| [`meetings-to-issues`](skills/meetings-to-issues/SKILL.md) | Turns meeting notes into tracker issues, logged decisions and parked ideas. Checks for duplicates and creates nothing until you say yes | A meeting just ended and its next steps need to land in Linear, Jira or Asana |
+
+More coming.
+
+**Install a skill:** copy its folder into `.claude/skills/` in your project (or `~/.claude/skills/` to use it everywhere). Run it with `/<skill-name>`. On first run it walks you through its setup.
 
 ## License
 

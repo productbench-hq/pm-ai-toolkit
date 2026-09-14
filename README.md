@@ -18,6 +18,7 @@ Works on its own, or together with the [Productbench AIOS template](https://gith
 |---|---|---|
 | [`meetings-to-issues`](skills/meetings-to-issues/SKILL.md) | Turns meeting notes into tracker issues, logged decisions and parked ideas. Checks for duplicates and creates nothing until you say yes | A meeting just ended and its next steps need to land in Linear, Jira or Asana |
 | [`plan-my-day`](skills/plan-my-day/SKILL.md) | Plans the rest of today (or tomorrow) as time blocks around your meetings, each with a finish line. Checks how the last plan went, and writes to your calendar only after you say yes | You're asking "what's next?" or want tomorrow sorted before you log off |
+| [`experiment-brief`](skills/experiment-brief/SKILL.md) | Turns a problem or research finding into an A/B test brief: verified evidence, counter-cases, past tests, hypothesis, metrics, sample size. Every unknown gets an owner | A problem needs to become a test your team can review |
 
 More coming.
 

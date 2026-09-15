@@ -1,8 +1,8 @@
 # PM AI Toolkit
 
-Skills, commands and curated repos for product managers working with Claude Code. Built by [Productbench](https://www.productbench.co/). We only list what we've used ourselves. A living list: we add to it when something earns its place.
+Skills, commands and curated repos for product managers working with AI agents. Built by [Productbench](https://www.productbench.co/). We only list what we've used ourselves. A living list: we add to it when something earns its place.
 
-Works on its own, or together with the [Productbench AIOS template](https://github.com/productbench-hq/productbench-aios-template).
+Works on its own, or together with the [Productbench AIOS template](https://github.com/productbench-hq/aios-template).
 
 ## What's inside
 

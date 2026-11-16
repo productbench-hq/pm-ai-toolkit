@@ -19,10 +19,9 @@ Works on its own, or together with the [Productbench AIOS template](https://gith
 | [`meetings-to-issues`](skills/meetings-to-issues/SKILL.md) | Turns meeting notes into tracker issues, logged decisions and parked ideas. Checks for duplicates and creates nothing until you say yes | A meeting just ended and its next steps need to land in Linear, Jira or Asana |
 | [`catching-up`](skills/catching-up/SKILL.md) | Scans your email, calendar, tracker and docs for what changed since you last looked. Reports what needs you, flags records that are now out of date, and updates them only after you say yes | You're starting a work session and want to know what you missed |
 | [`maintaining-a-wiki`](skills/maintaining-a-wiki/SKILL.md) | Keeps a research wiki: files interviews and articles as cited pages, answers questions from them, and checks for contradictions and stale claims. Based on Karpathy's LLM Wiki | You have customer interviews or research piling up and want answers with sources, not re-reads |
-| [`resume`](skills/resume/SKILL.md) | Gets you back into one project in at most 6 lines: status, where it stands, last decision, who you're waiting on, what's next, what's coming up. Reads your project file, tracker, calendar and email. Changes nothing | You're switching back to a project and don't want to reread everything to pick up where you left off |
-| [`experiment-brief`](skills/experiment-brief/SKILL.md) | Turns a problem or research finding into an A/B test brief: verified evidence, counter-cases, past tests, hypothesis, metrics, sample size. Every unknown gets an owner | A problem needs to become a test your team can review |
+| [`gut-check`](skills/gut-check/SKILL.md) | Gut-checks a decision before you commit. Finds the assumptions you haven't said out loud, checks them against your evidence with an agent that never sees your reasoning, and proposes the cheapest test for each. You make the call; it reminds you to check back | You're about to commit to a decision that feels obvious, and being wrong would cost you |
 
-More coming.
+More coming. **[Get new skills when we add them →](https://buttondown.com/productbench)**
 
 **Install a skill:** copy its folder into `.claude/skills/` in your project (or `~/.claude/skills/` to use it everywhere). Run it with `/<skill-name>`. On first run it walks you through its setup.
 

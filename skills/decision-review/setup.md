@@ -1,6 +1,6 @@
-# gut-check setup
+# decision-review setup
 
-Optional. `/gut-check` works with every field empty. It offers to fill this in at the end of your first run. Edit any time.
+Optional. `/decision-review` works with every field empty. It offers to fill this in at the end of your first run. Edit any time.
 
 - **Evidence sources:** <!-- folders or docs to read for context, e.g. knowledge/, projects/<name>/README.md, a research wiki -->
 - **Where reviews are saved:** <!-- e.g. decisions/reviews/. Empty = the current folder -->

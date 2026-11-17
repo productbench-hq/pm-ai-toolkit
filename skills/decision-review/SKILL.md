@@ -1,10 +1,10 @@
 ---
-name: gut-check
-description: Gut-checks a decision before the user commits to it. Finds the assumptions they haven't said out loud, checks them against the evidence with an agent that never sees their reasoning, proposes the cheapest test for each, and records their verdict and a date to check back. Use when asked for a gut check, to stress-test a decision or plan, or to check what a decision rests on; or run /gut-check.
+name: decision-review
+description: Reviews a decision before the user commits to it. Finds the assumptions they haven't said out loud, checks them against the evidence with an agent that never sees their reasoning, proposes the cheapest test for each, and records their verdict and a date to check back. Use when asked for a decision review or a gut check, to stress-test a decision or plan, or to check what a decision rests on; or run /decision-review.
 disable-model-invocation: true
 ---
 
-# gut-check
+# decision-review
 
 **The job:** the user is about to commit on a story that feels true. Find where it's weakest, and the cheapest way to check, before they commit. For one proposed choice (an offer, a price, what to build, where time goes). Skip it if the choice is cheap to undo or already running.
 
@@ -29,10 +29,10 @@ Every question except the verdict carries your proposal; a skipped question mean
 
 ## The doc
 
-`gut-check-<slug>-<YYYY-MM-DD>.md`, saved where [setup.md](setup.md) says, else the current folder. Under **600 words**.
+`decision-review-<slug>-<YYYY-MM-DD>.md`, saved where [setup.md](setup.md) says, else the current folder. Under **600 words**.
 
 ```
-# Gut check: <title>
+# Decision review: <title>
 <date> · decider: <name(s)>
 
 ## Summary

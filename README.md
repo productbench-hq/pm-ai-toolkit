@@ -18,7 +18,7 @@ Works on its own, or together with the [Productbench AIOS template](https://gith
 |---|---|---|
 | [`meetings-to-issues`](skills/meetings-to-issues/SKILL.md) | Turns meeting notes into tracker issues, logged decisions and parked ideas. Checks for duplicates and creates nothing until you say yes | A meeting just ended and its next steps need to land in Linear, Jira or Asana |
 | [`catching-up`](skills/catching-up/SKILL.md) | Scans your email, calendar, tracker and docs for what changed since you last looked. Reports what needs you, flags records that are now out of date, and updates them only after you say yes | You're starting a work session and want to know what you missed |
-| [`gut-check`](skills/gut-check/SKILL.md) | Gut-checks a decision before you commit. Finds the assumptions you haven't said out loud, checks them against your evidence with an agent that never sees your reasoning, and proposes the cheapest test for each. You make the call; it reminds you to check back | You're about to commit to a decision that feels obvious, and being wrong would cost you |
+| [`decision-review`](skills/decision-review/SKILL.md) | Reviews a decision before you commit. Finds the assumptions you haven't said out loud, checks them against your evidence with an agent that never sees your reasoning, and proposes the cheapest test for each. You make the call; it reminds you to check back | You're about to commit to a decision that feels obvious, and being wrong would cost you |
 
 More coming. **[Get new skills when we add them →](https://buttondown.com/productbench)**
 
